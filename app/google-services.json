@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652351467215",
+    "project_id": "starsteamchat",
+    "storage_bucket": "starsteamchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652351467215:android:48f3eeea4ec4fc851b11ba",
+        "android_client_info": {
+          "package_name": "com.example.starsteamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652351467215-hv13tc1h8acc6dnc930v7jffl3piii9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGXT2_DENHtiUP5mvzeOUWqjsIv0wK4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652351467215-hv13tc1h8acc6dnc930v7jffl3piii9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

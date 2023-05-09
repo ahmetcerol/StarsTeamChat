@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StarsTeamChat</string>
+    <string name="welcome_back">Hoş Geldiniz</string>
+    <string name="login_to_continue">Devam etmek için lütfen giriş yapınız!</string>
+    <string name="email">Email</string>
+    <string name="password">Şifre</string>
+    <string name="sign_in">Giriş Yap</string>
+    <string name="create_new_account">Yeni Hesap Oluştur</string>
+    <string name="add_image">Fotoğraf Ekle</string>
+    <string name="name">Ad</string>
+    <string name="confirm_password">Parolayı Doğrula</string>
+    <string name="sign_up">Kayıt Ol</string>
+    <string name="select_user">Kullanıcı Seç</string>
+    <string name="type_a_message">Mesaj Yaz</string>
+    <string name="online">Çevrimiçi</string>
+</resources>
