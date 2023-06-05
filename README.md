@@ -2,7 +2,7 @@
 ## Chat Application
 ###### Producer:Ahmet Can Erol
 
-## Türkçe
+
 Bu proje, kullanıcıların birbirleriyle mesajlaşabilmesini sağlayan bir Chat Aplikasyonu'dur. Kullanıcılar uygulamaya resimli olarak kaydolabilir, çevrimiçi durumlarını kontrol edebilir ve bildirimler alabilirler. Ayrıca, mesajlaşma sırasını düzenleyebilme özelliği de mevcuttur.
 
 ## Özellikler
@@ -40,7 +40,8 @@ git clone https://github.com/ahmetcerol/ServiceApplication.git
 
 Eğer bu projeye katkıda bulunmak isterseniz, "Pull Request" oluşturabilirsiniz. Her türlü katkı, geri bildirim veya önerilerinizle ilgileniyorum.
 
-## English
+---
+
 
 This project is a Chat Application that allows users to communicate with each other. Users can register with profile pictures, check online status, receive notifications when offline, and arrange the message order based on user interactions.
 
